@@ -72,7 +72,11 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
-      - name: Mitchell Valdés-Sosa
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -254,7 +258,11 @@ data:
         nameType: Personal
       - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
-      - name: Mitchell Valdés-Sosa
+      - name: >-
+          Mitchell Valdés-Sosa (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China),
         nameType: Personal
       - name: Laura Perez-Mayo
         nameType: Personal
