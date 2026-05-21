@@ -56,7 +56,9 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Lidia Charroó-Ruiz
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -246,7 +248,9 @@ data:
         nameType: Personal
       - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
-      - name: Lidia Charroó-Ruiz
+      - name: >-
+          Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
+          Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
         nameType: Personal
       - name: Yanely Acosta-Imás
         nameType: Personal
