@@ -169,14 +169,14 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 18
-      - name: Leyanis Ramos-Hernández
+      - name: Leyanis Ramos-Hernández (Pediatric Hospital of Cerro, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 19
-      - name: Mabel Whilby-Santiesteban
+      - name: Mabel Whilby-Santiesteban (Pediatric Hospital of Cerro, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -316,9 +316,9 @@ data:
           Joviana Castro-Valiente (Centro Habana Community Mental Health Center,
           Havana, Cuba)
         nameType: Personal
-      - name: Leyanis Ramos-Hernández
+      - name: Leyanis Ramos-Hernández (Pediatric Hospital of Cerro, Havana, Cuba)
         nameType: Personal
-      - name: Mabel Whilby-Santiesteban
+      - name: Mabel Whilby-Santiesteban (Pediatric Hospital of Cerro, Havana, Cuba)
         nameType: Personal
       - name: Thelma Luz Carrillo-Alfonso
         nameType: Personal
