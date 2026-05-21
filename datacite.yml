@@ -246,7 +246,11 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 26
-      - name: Roberto Rodriguez-Labrada
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -374,7 +378,11 @@ data:
           Brain-Apparatus Communication, University of Electronic Science and
           Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Roberto Rodriguez-Labrada
+      - name: >-
+          Roberto Rodriguez-Labrada (Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
       - name: Pedro Valdés-Sosa
         nameType: Personal
