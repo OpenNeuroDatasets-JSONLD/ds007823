@@ -108,7 +108,9 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
-      - name: Miguel Angel Alvarez
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -278,7 +280,9 @@ data:
           Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
           Hospital, Havana, Cuba)
         nameType: Personal
-      - name: Miguel Angel Alvarez
+      - name: >-
+          Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
+          Havana. Cuba)
         nameType: Personal
       - name: Norge Santiesteban
         nameType: Personal
