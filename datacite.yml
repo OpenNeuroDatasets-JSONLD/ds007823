@@ -49,7 +49,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Trinidad Virués-Alba
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -244,7 +244,7 @@ data:
           Neurotechnology and Brain-Apparatus Communication, University of
           Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Trinidad Virués-Alba
+      - name: Trinidad Virués-Alba (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
       - name: Lidia Charroó-Ruiz
         nameType: Personal
