@@ -117,7 +117,9 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 12
-      - name: Norge Santiesteban
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -284,7 +286,9 @@ data:
           Miguel Angel Alvarez (Institute of Neurology and Neurosurgical.
           Havana. Cuba)
         nameType: Personal
-      - name: Norge Santiesteban
+      - name: >-
+          Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
+          Cuba)
         nameType: Personal
       - name: Javier Vicente Sánchez-Lopez
         nameType: Personal
