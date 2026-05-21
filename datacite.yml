@@ -222,14 +222,24 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 24
-      - name: Dezhong Yao
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 25
-      - name: Luo Cheng
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -350,9 +360,19 @@ data:
           University of Electronic Science and Technology of China, Chengdu,
           China)
         nameType: Personal
-      - name: Dezhong Yao
+      - name: >-
+          Dezhong Yao (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Luo Cheng
+      - name: >-
+          Luo Cheng (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
       - name: Roberto Rodriguez-Labrada
         nameType: Personal
