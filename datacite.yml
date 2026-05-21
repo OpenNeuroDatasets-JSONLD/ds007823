@@ -26,7 +26,11 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Lidice Galán-García
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -222,7 +226,11 @@ data:
           Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
           Universidad Nacional Autónoma de México )
         nameType: Personal
-      - name: Lidice Galán-García
+      - name: >-
+          Lidice Galán-García(Cuban Centre for Neurosciences, Havana,
+          Cuba,China-Cuba Belt and Road Joint Laboratory on Neurotechnology and
+          Brain-Apparatus Communication, University of Electronic Science and
+          Technology of China, Chengdu, China)
         nameType: Personal
       - name: Maria Luisa Bringas-Vega
         nameType: Personal
